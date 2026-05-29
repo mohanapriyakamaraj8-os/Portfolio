@@ -58,7 +58,7 @@ revealElements.forEach(el => {
 
 // Typing Effect for "Full Stack Developer"
 const textElement = document.querySelector('.multiple-text');
-const textArray = ["Full Stack Developer", "Java Developer", "UI/UX Enthusiast"];
+const textArray = ["Full Stack Developer", "Java Developer"];
 let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
